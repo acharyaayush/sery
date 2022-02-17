@@ -119,8 +119,8 @@ define("CANCELLED_BY_CUSTOMER_ORDER_PAGE_VALUE", 4);
 define("CANCELLED_BY_PROVIDER_ORDER_PAGE_VALUE", 5);
 
 #Andriod Notification for customer and service provider 
-define("CUSTOMER_API_SERVER_KEY", 'AAAAkZX-SHQ:APA91bHEeUoFCvLXukL3crGJEegOyDEi186PZiYw3gpeyaR2KWAtN99_FPFv4ak_iE63LQdBRG09dy4ZzuJZZOU1CUXmHUXiCEM5f_PSG9-s2Fp8rhGYUbtFyho4dA9fwiFvZoVR6Kke');
-define("PROVIDER_API_SERVER_KEY", 'AAAAey6YmPI:APA91bFHWQYipNWVFVzbS-tOval6cbE-RLsQJPjFxhiC9JRjpd-qPMLphPcXb4Gw1l7sxcrTd9JDjyB9yXgWXPYf1XztfdQSuHfzrFX16Aru__QwQwnrCN0wO_jQy3zMKnVFYYuF-Wtv');
+define("CUSTOMER_API_SERVER_KEY", 'xyz');
+define("PROVIDER_API_SERVER_KEY", 'xyz');
 
 #IOS Notification Bundle id
 define('IOS_PROVIDER_BUNDLE_ID', 'Com.Sery.Provider');//will provide by ios team
